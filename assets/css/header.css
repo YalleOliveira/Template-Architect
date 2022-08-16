@@ -72,4 +72,8 @@ nav a:hover, nav .nav_bar li a:hover {
     nav .nav_bar {
         display: none;
     }
+    .capa .content_capa h1:nth-child(2){
+        display: none;
+    }
 }
+ 
